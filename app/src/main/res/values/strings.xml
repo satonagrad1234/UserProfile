@@ -1,0 +1,27 @@
+<!-- app/src/main/res/values/strings.xml -->
+<resources>
+    <string name="app_name">Анкета</string>
+
+    <string name="avatar_cd">Аватар по умолчанию</string>
+
+    <string name="name_label">Имя</string>
+    <string name="name_placeholder">Введи имя</string>
+    <string name="error_name_required">Имя обязательно</string>
+
+    <string name="age_title">Возраст: %1$d</string>
+
+    <string name="gender_title">Пол</string>
+    <string name="gender_male">м</string>
+    <string name="gender_female">ж</string>
+    <string name="gender_male_full">Мужской</string>
+    <string name="gender_female_full">Женский</string>
+
+    <string name="subscription_label">Хочу получать новости</string>
+
+    <string name="submit">Отправить</string>
+    <string name="yes">да ✅</string>
+    <string name="no">нет ❌</string>
+
+    <string name="summary_template">Имя: %1$s\nВозраст: %2$d\nПол: %3$s\nПодписка: %4$s</string>
+    <string name="summary_hint">После нажатия сводка появится внизу экрана</string>
+</resources>
