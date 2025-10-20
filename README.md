@@ -1,1 +1,1 @@
-(https://i.ibb.co/My117sQy/your-image.png)
+https://ibb.co/My117sQy
