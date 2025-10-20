@@ -1,1 +1,1 @@
-<img width="221" height="487" alt="image" src="https://ibb.co/My117sQy" />
+(https://i.ibb.co/My117sQy/your-image.png)
